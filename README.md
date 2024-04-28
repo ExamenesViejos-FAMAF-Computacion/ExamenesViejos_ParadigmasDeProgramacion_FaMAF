@@ -5,4 +5,3 @@ Exámenes viejos de la materia Paradigmas de la programación de la carrera Cien
 Cualquier contribución con un examen viejo que no esté es bienvenida, ya sea como pull request, o como mandar el examen por cualquier otro medio.
 
 
-En esta materia los profes comparten los exámenes, así que son faciles de conseguir, pero igual está este repositorio para que haya uno de cada materia
