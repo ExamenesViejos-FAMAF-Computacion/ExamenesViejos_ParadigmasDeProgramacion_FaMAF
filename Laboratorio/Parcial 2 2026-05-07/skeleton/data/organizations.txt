@@ -1,0 +1,16 @@
+# Empresas y organizaciones tecnológicas
+Google
+Apple
+Microsoft
+Amazon
+Meta
+Twitter
+IBM
+Oracle
+Netflix
+Spotify
+JetBrains
+GitHub
+GitLab
+Typesafe
+Lightbend

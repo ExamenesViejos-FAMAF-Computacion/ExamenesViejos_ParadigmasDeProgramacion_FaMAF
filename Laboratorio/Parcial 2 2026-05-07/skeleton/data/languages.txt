@@ -1,0 +1,18 @@
+# Lenguajes de programación
+Scala
+Python
+Haskell
+Java
+JavaScript
+TypeScript
+Rust
+Go
+Kotlin
+Swift
+Ruby
+Clojure
+Erlang
+Elixir
+SQL
+C++
+Assembly

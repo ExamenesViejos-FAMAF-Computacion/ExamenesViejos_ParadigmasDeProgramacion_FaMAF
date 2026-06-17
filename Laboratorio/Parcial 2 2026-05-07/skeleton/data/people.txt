@@ -1,0 +1,14 @@
+# Personas conocidas en el mundo de la tecnología y la informática
+Martin Odersky
+Alan Turing
+Ada Lovelace
+Linus Torvalds
+Grace Hopper
+Tim Berners-Lee
+Guido van Rossum
+Bjarne Stroustrup
+James Gosling
+Dennis Ritchie
+John McCarthy
+Donald Knuth
+Charles Petzolds
